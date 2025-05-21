@@ -29,8 +29,8 @@ const employees = [
   },
   {
     id: 2,
-    name:"tilak",
-    email: "tilak@example.com",
+    name:"Asta",
+    email: "asta@example.com",
     password: "123",
     tasks: [
       {
